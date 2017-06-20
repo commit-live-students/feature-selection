@@ -40,7 +40,8 @@ After this lesson, you'll be able to
 @[gslides](12MfGuRbSPV-Hgtpn1Xmd8GGvwgwbwVSp8Gx1NVKH1Mk)
 
 ## Instructors code alongs
-
+ 
+* [Feature Selection](https://github.com/commit-live-students/feature-selection/blob/master/notebooks/feature_selection.ipynb)
 
 
 ## Assignments 
