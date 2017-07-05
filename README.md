@@ -46,6 +46,7 @@ After this lesson, you'll be able to
 
 ## Assignments 
 
+You can find assignments inside commit.live.
 
 
 
